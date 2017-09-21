@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# multimedia ouput
+*.png
+*.pdf
+
+# visual studio code
+.vscode
